@@ -16,8 +16,8 @@
 -->
 <resources>
 
-    <string name="theme_name">Header Template</string>
-    <string name="theme_author">Nicholas Chum &amp; Randall Rushing</string>
-    <string name="theme_email">randall.rushing@gmail.com</string>
+    <string name="theme_name">Screw\'d AOSP Headers</string>
+    <string name="theme_author">fabi_92</string>
+    <string name="theme_email"></string>
 
 </resources>
